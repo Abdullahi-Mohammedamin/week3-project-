@@ -2,7 +2,7 @@
 
 ## Author
 
-[Owiti-Charles](https://github.com/Owiti-Charles)
+[Abdullahi-Mohammedamin](https://github.com/Abdullahi-Mohammedamin)
 
 ## Description
 
