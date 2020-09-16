@@ -37,7 +37,7 @@ https://abdullahi-mohammedamin.github.io/week3-project-
 | Behaviour      | Input        | Output       |
 | :------------- | :----------: | -----------: |
 |  Enter your name  |   Abuu Dee |     |
-| Enter your Email Address  | mohammedabdillahi750@7@gmail.com |   |
+| Enter your Email Address  | mohammedabdillahi750@gmail.com |   |
 | Enter your message or comment   |  I would love to work with you     |     |
 | Press Submit|     |Pop up "Abuu dee , we have received your message. Thank you for reaching out to us.|
 
