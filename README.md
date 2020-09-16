@@ -12,13 +12,13 @@ This project is a web application for Delani studio that shows details about the
 <img src="https://raw.githubusercontent.com/Owiti-Charles/Delani-Studio/master/images/delanihome.png" width="900px" height="440px">
 
 ## Live Page 
-https://Owiti-charles.github.io/Delani-Studio 
+https://abdullahi-mohammedamin.github.io/week3-project-
 
 
 ## Installation / Setup instruction
 * Open Terminal {Ctrl+Alt+T}
 
-* git clone ```https://github.com/Owiti-Charles/Delani-Studio.git```
+* git clone ```https://github.com/Abdullahi-Mohammedamin/Delani-Studio.git```
 
 * cd Delani-Studio
 
@@ -47,8 +47,8 @@ https://Owiti-charles.github.io/Delani-Studio
 
 ## Contact Information 
 
-If you have any question or contributions, please email me at [mikeycharlesm7@gmail.com]
+If you have any question or contributions, please email me at [mohammedabdillahi750@gmail.com]
 
 ## License
 * *MIT License:*
-* Copyright (c) 2019 **Owiti Charles**
+* Copyright (c) 2019 **Abdullahi-Mohammed**
